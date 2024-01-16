@@ -7,7 +7,6 @@
 bili_11581128(游戏ID:ASKD114514)
 ### 赞助者名单
 暂无赞助者......
-> 只有赞助12.34元及以上才能被列入此名单
-> 赞助链接:暂无，正在搭建......
+> 赞助链接:(https://afdian.net/order/create?plan_id=f5831eeeb45211eead4652540025c377&product_type=0&remark=)https://afdian.net/order/create?plan_id=f5831eeeb45211eead4652540025c377&product_type=0&remark=
 ### 特别鸣谢
 雨云 https://www.rainyun.com/MEMZJJY_
